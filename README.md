@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevKimDN
+- 👋 Hi, I’m @DevKimDN Kim Trong
 - 👀 I’m interested in React
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on DN
